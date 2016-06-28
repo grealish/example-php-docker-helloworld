@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">APPUiO PHP Demo</a>
+          <a class="navbar-brand" href="#">Darragh PHP Demo</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
@@ -54,7 +54,7 @@
 
       <div class="starter-template">
         <h1>Hallo <?php echo 'APPUiO'?></h1>
-        <p class="lead">APPUiO Example from darragh with githook</p>
+        <p class="lead">APPUiO Example from darragh with githook task 2 :)</p>
       </div>
 
     </div><!-- /.container -->
